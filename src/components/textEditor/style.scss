@@ -1,0 +1,17 @@
+.wrapper_class {
+  min-height: 220px;
+}
+.editor_class {
+  background-color: #f0f0f0;
+  padding: 10px;
+  min-height: 220px !important;
+}
+
+textarea {
+  width: 100%;
+  background: black;
+  color: white;
+  min-height: 300px;
+  height: 100%;
+  resize: none;
+}
